@@ -1,0 +1,6 @@
+base   disabledelete
+author Melanger.cz
+email  plugins@melanger.cz
+date   2021-11-01
+name   Disable delete plugin
+desc   Prevent users except admins from deleting a page or a section
